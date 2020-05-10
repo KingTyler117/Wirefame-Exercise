@@ -13,35 +13,35 @@ img {
     margin: 15px;
 }
 
-
-li{
-    margin: 40px;
-    display: inline-block;
-    vertical-align: middle;
-}
-
-
 footer {
     background-color: gray;
     height: 150px;
 }
 
 
-.navpic{
+navpic{
     float: left;
 }
 
+section button {
+    border: none;
+    background: black
+    padding: 8px 30px;
+    font-weight: 700;
+  }
+  section button:hover {
+    background:white;
+    transition-delay: 350ms;
+  }
+  
+  .bottom{
+      display: flex;
+      width: 960px;
+      align-items: center;
+  }
 
-li > div > p {
-    height: 350px;
-    overflow: scroll;
-    width: 400px;
-    text-align: left;
-}
-   
-section > ul > li {
-    display: inline-block;
-    vertical-align: middle;
-    margin-top: 15px;
-    text-align: left;
-}
+  .lorem{
+      color:g
+      width: 400px;
+      height: 480px;
+  }
