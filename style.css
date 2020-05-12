@@ -19,18 +19,18 @@ footer {
 }
 
 
-navpic{
+/* avpic{
     float: left;
-}
+} */
 
 section button {
     border: none;
-    background: black
+    background: white
     padding: 8px 30px;
     font-weight: 700;
   }
   section button:hover {
-    background:white;
+    background: black;
     transition-delay: 350ms;
   }
   
@@ -41,7 +41,6 @@ section button {
   }
 
   .lorem{
-      color:g
       width: 400px;
       height: 480px;
   }
